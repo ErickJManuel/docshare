@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <videoserver>
+    <videoserver_id>[VIDEOSERVER_ID]</videoserver_id>
+    <videoserver_name>[VIDEOSERVER_NAME]</videoserver_name>
+    <url>[URL]</url>
+    <bandwidth>[BANDWIDTH]</bandwidth>
+    <width>[WIDTH]</width>
+    <height>[HEIGHT]</height>
+    <max_window>[MAX_WINDOW]</max_window>
+    <audio_rate>[AUDIO_RATE]</audio_rate>
+    <has_voip>[HAS_VOIP]</has_voip>
+  </videoserver>
+</response>

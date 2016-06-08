@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <webserver>
+    <webserver_id>[WEBSERVER_ID]</webserver_id>
+    <webserver_name>[WEBSERVER_NAME]</webserver_name>
+    <url>[URL]</url>
+    <max_connections>[MAX_CONNECTIONS]</max_connections>
+    <!--BEGIN_CACHINGSERVER-->
+    <cachingserver>
+      <webserver_id>[CACHINGSERVER_ID]</webserver_id>
+    </cachingserver>
+    <!--END_CACHINGSERVER-->
+  </webserver>
+</response>

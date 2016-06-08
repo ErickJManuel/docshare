@@ -1,0 +1,63 @@
+	div.message img, div.page img { border-width:0px; }			div.message {
+		z-index:2;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin-left:-250px;
+		margin-top:-80px;
+		width: 500px;
+		height: 160px;
+		padding: 0;
+		background-color: #ffffff;
+		border: 1px solid black;
+
+		/* for IE */
+		/*filter: alpha(opacity=85); */
+		/* CSS3 standard */
+		/*opacity:0.85; */
+	}
+	div.message p
+	{
+		width: 420px;
+		margin: 15px 40px;
+		padding: 0;
+		font-weight: bold;
+		font-size: 16px;
+		font-family:Arial;
+		/* color: #000000; */
+		color: #4d4d4d;
+	}	div.page {
+		z-index:3;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		margin-left:-400px;
+		margin-top:-280px;
+		width: 805px;
+		height: 560px;
+		padding: 0;
+		background-color: #ffffff;
+		border: 1px solid black;
+	}	
+	div.page iframe
+	{
+		width: 805px;
+		height: 532px;
+		padding: 0px;
+		margin: 0px;
+		border: 0px;
+	}	
+	div.box_header {
+		margin: 5px;
+		text-align: right;
+		padding-right: 10px;	
+	}	
+	div.page a, div.message a 
+	{	
+		text-decoration:none;
+		font-size: 14px;
+		font-weight: bold;
+		font-family:Arial;
+		height: 40px;
+		padding: 5px 10px 5px 30px;
+	}		div.page img, div.message img {		vertical-align: middle;	}

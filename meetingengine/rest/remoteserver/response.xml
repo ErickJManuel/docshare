@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <remoteserver>
+    <remoteserver_id>[REMOTESERVER_ID]</remoteserver_id>
+    <remoteserver_name>[REMOTESERVER_NAME]</remoteserver_name>
+    <server_url>[SERVER_URL]</server_url>
+    <client_url>[CLIENT_URL]</client_url>
+  </remoteserver>
+</response>

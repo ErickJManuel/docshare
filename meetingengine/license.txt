@@ -1,0 +1,50 @@
+
+/**
+ * Persony Web Conferencing 2.0
+ * @author      Persony, Inc. <info@persony.com>
+ * @copyright   Copyright 2008-2011 Persony, Inc.
+ * @version     2.0
+ * 
+ */
+ 
+The software contains materials owned by the respective copyright holders below: 
+ 
+Copyright (c) 2009 Fair Oaks Labs, Inc. All rights reserved.
+Copyright (c) 2010, robbiehanson@deusty.com. All rights reserved.
+Copyright (c) 1999 AT&T Laboratories Cambridge.  All Rights Reserved.
+Copyright (c) 2001-2005 MetaStuff, Ltd. All Rights Reserved.
+Copyright (c) 2001-2011 Flagstone Software Ltd. All rights reserved.
+Copyright (c) 2007, iNetOffice, Inc.
+Copyright (c) 2007-2009, iUI Project Members. All rights reserved.
+Copyright (c) 2001,2002 HorizonLive.com, Inc. All rights reserved.
+Copyright (c) 1998 - 2004, Daniel Stenberg, <daniel@haxx.se>, et al.
+Copyright (c) 2010, John Resig
+Copyright (c) 2009, Cedric Dugas
+Copyright (c) 1995-2003 Jean-loup Gailly and Mark Adler
+Copyright (c) 1988-1997 Sam Leffler
+Copyright (c) 1991-1997 Silicon Graphics, Inc.
+Copyright (c) 2004, 2006-2011 Glenn Randers-Pehrson
+Copyright (c) 2008 Kevin van Zonneveld
+Copyright (c) 2004-2007, Andy Prevost. All Rights Reserved.
+Copyright (c) 2001-2003, Brent R. Matzelle 
+Copyright (c) 2007 Geoff Stearns
+Copyright (c) 1998 Julian Smart, Robert Roebling et al
+
+This software is based in part on the work of the Independent JPEG Group. (C) 1991-1998, Thomas G. Lane. All Rights Reserved
+This product includes PHP, freely available from <http://www.php.net/>
+
+NOTICE FROM THE COPYRIGHT HOLDERS
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The software includes a modifed version of TightVNC, which can be downloaded from
+http://persony.net/download/persony_vnc1.0.14.zip

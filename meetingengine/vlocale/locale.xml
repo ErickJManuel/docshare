@@ -1,0 +1,11 @@
+<localelist>
+	<locale description="English" name="en"/>
+	<locale description="German" name="de"/>
+	<locale description="Spanish" name="es"/>
+	<locale description="French" name="fr"/>
+	<locale description="Italian" name="it"/>
+	<locale description="Dutch" name="nl"/>
+	<locale description="Portuguese" name="pt"/>
+	<locale description="Chinese(Simplified)" name="zh_CN"/>
+	<locale description="Chinese(Traditional)" name="zh_TW"/>
+</localelist>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<groups start='[START]' next='[NEXT]'>
+<!--BEGIN_GROUPS-->
+    <group>
+      <group_id>[GROUP_ID]</group_id>
+      <group_name>[GROUP_NAME]</group_name>
+      <description>[DESCRIPTION]</description>
+      <webserver_id>[WEBSERVER_ID]</webserver_id>
+      <videoserver_id>[VIDEOSERVER_ID]</videoserver_id>
+      <remoteserver_id>[REMOTESERVER_ID]</remoteserver_id>
+      <teleserver_id>[TELESERVER_ID]</teleserver_id>
+    </group>
+<!--END_GROUPS-->
+	</groups>
+</response>

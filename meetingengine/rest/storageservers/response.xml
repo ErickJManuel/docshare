@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <storageservers>
+    <!--BEGIN_STORAGESERVERS-->
+    <storageserver>
+      <storageserver_id>[STORAGESERVER_ID]</storageserver_id>
+      <storageserver_name>[STORAGESERVER_NAME]</storageserver_name>
+      <url>[URL]</url>
+      <access_code>[ACCESS_CODE]</access_code>
+    </storageserver>
+    <!--END_STORAGESERVERS-->
+  </storageservers>
+</response>

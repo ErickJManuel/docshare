@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<help>
+		<synopsis>[SYNOPSIS]</synopsis>
+		<methods>[METHODS]</methods>
+<!--BEGIN_REQUIRED-->
+		<parameter required='true'>
+			<key>[KEY]</key>
+			<value>[VALUE]</value>
+		</parameter>
+<!--END_REQUIRED-->
+<!--BEGIN_OPTIONAL-->
+		<parameter>
+			<key>[KEY]</key>
+			<value>[VALUE]</value>
+		</parameter>
+<!--END_OPTIONAL-->
+<!--BEGIN_RETURNED-->
+		<return>
+			<key>[KEY]</key>
+			<value>[VALUE]</value>
+		</return>
+<!--END_RETURNED-->
+    <additional>
+      [ADDITIONAL]
+    </additional>
+	</help>
+</response>

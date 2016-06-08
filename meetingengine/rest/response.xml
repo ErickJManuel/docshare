@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<objects>
+<!--BEGIN_OBJECTS-->
+		<object href='[LINK]'>[NAME]</object>
+<!--END_OBJECTS-->
+	</objects>
+</response>

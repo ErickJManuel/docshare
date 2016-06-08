@@ -1,0 +1,1 @@
+<?php $gScriptDir='scripts/'; require_once("scripts/vscript.php"); ?>

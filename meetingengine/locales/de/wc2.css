@@ -1,0 +1,11 @@
+
+/* #nav-primary ul { padding: 0 0 0 100px; } 
+#nav-primary ul li a { padding: 7px 10px 6px 10px; } */
+.right_hd1 { font-size:100%; }
+.right_hd2 { font-size:90%; }
+#nav-secondary ul li 
+{
+	margin: 2px 20px 0 0; 
+	padding: 4px 0 0 0; 
+	white-space: nowrap; 	
+}

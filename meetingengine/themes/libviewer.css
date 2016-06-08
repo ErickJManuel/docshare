@@ -1,0 +1,218 @@
+body {	margin: 0;	padding: 0;	background-color: #fff; 
+	color: #000;
+	font: 12px arial;
+	line-height: 1.2em;
+}
+
+img 
+{
+	border: 0;
+	text-decoration: none;
+	vertical-align: text-bottom;
+}
+div, form, span, table { margin: 0px; padding: 0px; min-height: 0px;}
+input, textarea, ul { font-size: 100%; font-weight: normal; }
+tr, td { margin: 0px; padding: 0px;}
+a {	text-decoration: none; color: #555; }
+a:hover { text-decoration: underline; }
+
+
+#lib_content 
+{
+	position: absolute;
+	top: 32px;
+	background-color: #fff;
+	width:100%;
+	clear: both;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+#lib_content table 
+{
+	border:0;
+	border-spacing: 0;
+	text-align: left;
+	padding: 0 10px 10px 10px;
+	font: 12px arial;
+	line-height: 1.2em;
+	width:100%;
+	margin: 0;
+}
+#lib_content table a 
+{
+	text-decoration: none;
+	color: #454545;
+}
+#lib_content tr {
+}
+#lib_content td 
+{
+	height: 30px;
+	vertical-align: middle; 
+	border-bottom: 1px solid #ccc;
+}
+
+.lib_title { font-weight:700; width: 330px; margin: 0; overflow: hidden; }
+.lib_date { width: 100px; }
+.lib_tool { font-size: 90%; font-weight: 700; width: 200px;}
+
+.icon_slide {
+	background: #fff url('slides.png') no-repeat center center;
+}
+.icon_pict {
+	background: #fff url('picture.png') no-repeat center center;
+}
+.icon_video {
+	background: #fff url('video.png') no-repeat center center;
+}
+.icon_audio {
+	background: #fff url('audio.png') no-repeat center center;
+}	
+
+.i_slide {
+	background: transparent url('slides.png') no-repeat 0 0;
+}
+.i_pict {
+	background: transparent url('picture.png') no-repeat 0 0;
+}
+.i_video {
+	background: transparent url('video.png') no-repeat 0 0;
+}
+.i_audio {
+	background: transparent url('audio.png') no-repeat 0 0;
+}
+.i_slide a, .i_pict a, .i_video a, .i_audio a { padding-left: 18px; }
+
+.zoom_img 
+{
+	width: 480px;
+}
+
+.count, .count2 { font-size: 10px; font-weight: normal; background-color: #bbe; margin-left: 3px; padding-left: 2px; padding-right: 2px;}
+
+#lib-bar, #cont-bar, #add-bar {
+  /* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+  position: absolute;
+}
+body > div#lib-bar, body > div#cont-bar {
+  /* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+  position: fixed;
+}
+#add-bar { position: absolute; }
+
+#lib-bar, #cont-bar, #add-bar
+{
+	z-index: 3;
+	left:0;
+	top: 0;
+	font-weight: bold;
+	height: 16px;
+	width: 100%;
+	clear: both;
+	background-color:#ddd;
+	margin: 0;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 0px; 
+	padding-right: 0;
+	border-bottom:1px solid #ccc;
+}
+
+#lib-bar ul { list-style: none; margin: 0; padding: 0 0 0 20px; }
+#lib-bar li { float: left; white-space: nowrap; margin-right: 20px; padding: 0;}
+.media_selected { text-decoration: underline !important; font-weight: 900; color: #a53}
+#cont-bar a
+{
+	font-weight: bold;
+}
+
+#cont-bar ul, #add-bar ul { list-style: none; margin: 0px; padding: 0 0 0 20px; text-align: left; }
+#cont-bar li, #add-bar li { float: left; white-space: nowrap; margin-right: 20px; padding: 0; height: 16px;}
+#cont-bar img, #add-bar img { padding: 0; margin: 0;}
+
+#file_name { font-weight: 700; width: 300px; overflow:hidden; }
+#return { width: 70px; }
+
+#slide, #pict { text-align: center; width: 100%; margin-top: 5px; }
+#slide img { border: 1px solid #777; vertical-align: middle; }
+#flvplayer { margin-top: 5px; }
+#mp3player { margin-top: 70px; }
+
+#edit-page 
+{
+	z-index: 5;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+	text-align: center;
+	
+	/* IE 8 */
+/*	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; */
+	/* IE 6, 7 */
+/*		filter: alpha(opacity=50); */
+
+	/* All others */
+/*	opacity: 0.8; */
+}
+
+#picture_uploader, #audio_uploader, #video_uploader, #slides_uploader
+{
+	position: absolute;
+	top: 40px;
+	left: 134px;
+	width: 420px;
+}
+.upload-note
+{
+	font-size: 90%;
+	text-align: left;
+}
+.upload-note a 
+{
+	text-decoration: underline;
+	color: #33f;
+}
+#media_editor
+{
+	position: absolute;
+	top: 120px;
+	left: 134px;
+	width: 420px;
+}
+
+#media_editor input 
+{
+	background-color: #efefef;
+}
+
+
+#add_pres
+{
+	position: absolute;
+	left: 80px;
+	top: 80px;
+	width: 550px;
+	line-height: 1.5em;
+	text-align: left;
+}
+#add_pres a
+{
+	text-decoration: underline;
+	color: #33f;
+}
+#add_pres input[type="button"]
+{
+	width: 130px;
+}
+#add_pres li
+{
+	padding-top: 10px; padding-bottom: 5px;
+}
+#doc_converter 
+{
+	margin-top: 40px;
+}

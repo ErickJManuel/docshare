@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <command>
+    <command_name>[COMMAND_NAME]</command_name>
+    <command_data>[COMMAND_DATA]</command_data>
+    <target_attendee_id>[TARGET_ATTENDEE_ID]</target_attendee_id>
+  </command>
+</response>

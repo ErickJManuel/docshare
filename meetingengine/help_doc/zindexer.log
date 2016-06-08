@@ -1,0 +1,394 @@
+02|09/07/09 11:57:04|Config file loaded: c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21.zcfg
+10|09/07/09 11:57:06|Start indexing (offline mode) at Mon Sep 07 11:57:06 2009
+02|09/07/09 11:57:06|Maximum number of words: 500000
+02|09/07/09 11:57:06|Maximum number of files: 65500
+02|09/07/09 11:57:06|Will scan files with extensions
+02|09/07/09 11:57:06|     .htm
+02|09/07/09 11:57:06|Search root directory: c:\users\eric\documents\projects\wc2_docs\source\html
+02|09/07/09 11:57:06|Web site URL: ./
+02|09/07/09 11:57:06|Estimated RAM required during index process: 659339 KB
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\accounts.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\account_information.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_conversion_server_hosting_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_meeting.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_meeting_1.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_remote_control_hosting_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_teleconference_hosting_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_video_conference_hosting_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_a_web_conference_hosting_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_content_to_library.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\add_content_to_my_library.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\administration.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\allow_drawing.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\allow_presenting.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\attendee_management.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_home_h.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_home_n.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_next_d.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_next_h.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_next_n.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_prev_d.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_prev_h.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\btn_prev_n.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\button_closedbook.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\button_openbook.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\button_topic.gif (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\change_account_password.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\cicon1.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\cicon2.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\cicon9.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\cicon_loadindex_ani.gif (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\comments.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\configure_teleconference.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\control_audio_conference.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\custom.css (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\default.css (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\delete_a_file.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\delete_a_meeting.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\document_converter.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\download_presenter_software.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\edit_a_file.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\edit_my_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\edit_your_profile.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\end_a_meeting.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\flag_green.gif (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\groups.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\header_bg.jpg (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\header_bg_shadow.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\helpman_topicinit.js (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\highlight.js (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\home.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\hosting.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\index.html (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\introduction.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\invite_attendees.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\invite_meeting_participants.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\lines.gif (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meetings.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meetings_1.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meetings_2.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_room.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_rooms.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_viewer.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_viewer_1.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_viewer_2.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\meeting_viewer_toolbar.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\members.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\my_account.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\my_library.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\my_meetings.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\nsh.js (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21.zcfg (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\Persony-web21.zlang (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_content_dyn.html (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_content_static.html (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_ftsearch.html (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_kwindex_dyn.html (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_kwindex_static.html (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\persony-web21_navigation.js (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\Persony-web21_popup_html.js (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\print1.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\print2.gif (Blocked by extensions list)
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\prod_tip.gif (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\quick_start_guide.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\raise_hand_and_set_emoticons.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\recordings.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\registrations.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\reports.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\reports_1.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\send_a_file.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\send_chat_messages.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\send_meeting_invitations.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\send_messages.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\send_snapshot.htm
+01|09/07/09 11:57:07|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\settings.js (Blocked by extensions list)
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\set_participant_permissions.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_library_content.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_picture_audio_and_video.htm
+00|09/07/09 11:57:07|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_presentation.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_screen.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_screen_with_java_client.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_screen_with_windows_client.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_whiteboard.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\share_your_screen.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\show_webcam.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\sign_in_to_your_account.htm
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\spacer.gif (Blocked by extensions list)
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\speed_test.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\start_and_join_a_meeting.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\start_a_meeting.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\system_requirements.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\terminology.htm
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\tog_minus.gif (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\tog_plus.gif (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\up.gif (Blocked by extensions list)
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\use_meeting_toolbar.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\view_meeting_reports.htm
+00|09/07/09 11:57:08|Indexing c:\users\eric\documents\projects\wc2_docs\source\html\website.htm
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zindexer.log (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zoom_index.js (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zoom_pagedata.tmp (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zoom_pageinfo.js (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zoom_pageinfo.tmp (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\zoom_search.js (Blocked by extensions list)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img10.zoom92.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img11.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img12.zoom107.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img13.zoom78.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img134.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img135.zoom70.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img135.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img136.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img137.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img137.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img138.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img139.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img139.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img140.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img140.zoom110.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img141.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img142.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img142.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img143.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img143.zoom98.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img144.zoom75.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img144.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img145.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img146.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img147.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img148.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img149.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img150.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img151.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img152.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img153.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img154.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img155.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img156.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img157.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img158.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img159.zoom89.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img160.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img161.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img162.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img163.zoom92.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img164.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img165.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img166.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img167.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img168.zoom50.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img169.zoom89.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img170.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img171.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img172.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img173.zoom51.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img174.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img175.zoom79.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img176.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img177.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img178.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img179.zoom72.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img180.zoom108.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img181.zoom91.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img182.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img183.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img184.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img185.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img186.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img187.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img188.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img189.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img190.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img191.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img192.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img193.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img194.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img195.zoom83.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img196.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img197.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img198.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img199.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img200.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img201.zoom70.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img201.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img202.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img203.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img203.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img204.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img205.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img205.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img206.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img206.zoom110.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img207.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img208.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img208.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img209.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img209.zoom98.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img210.zoom75.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img210.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img211.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img212.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img213.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img214.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img215.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img216.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img217.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img218.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img219.zoom93.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img220.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img221.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img222.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img223.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img224.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img225.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img226.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img227.zoom83.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img228.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img229.zoom92.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img230.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img231.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img232.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img233.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img234.zoom50.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img235.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img236.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img237.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img238.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img239.zoom51.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img240.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img241.zoom79.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img242.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img243.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img244.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img245.zoom72.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img246.zoom108.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img247.zoom91.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img248.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img249.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img250.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img251.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img252.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img253.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img254.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img255.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img256.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img257.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img258.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img259.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img260.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img261.zoom83.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img262.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img263.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img264.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img265.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img266.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img267.zoom74.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img267.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img268.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img269.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img269.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img270.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img271.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img271.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img272.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img272.zoom110.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img273.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img274.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img274.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img275.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img275.zoom98.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img276.zoom75.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img276.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img277.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img278.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img279.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img280.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img281.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img282.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img283.zoom87.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img284.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img285.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img286.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img287.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img288.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img289.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img290.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img291.zoom83.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img292.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img293.zoom92.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img294.zoom90.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img295.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img296.zoom106.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img297.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img298.zoom50.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img299.zoom79.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img3.zoom69.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img300.zoom94.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img301.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img302.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img303.zoom51.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img304.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img305.zoom79.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img306.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img307.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img308.zoom105.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img309.zoom72.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img310.zoom108.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img311.zoom91.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img312.zoom96.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img313.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img314.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img315.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img316.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img317.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img318.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img319.zoom85.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img320.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img321.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img322.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img323.zoom88.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img324.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img325.zoom83.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img326.zoom86.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img327.zoom84.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img328.zoom80.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img329.zoom81.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img4.zoom137.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img4.zoom69.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img5.zoom69.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img5.zoom78.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img6.zoom107.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img7.zoom78.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img8.zoom73.png (File begins with an underscore)
+01|09/07/09 11:57:08|Skipping c:\users\eric\documents\projects\wc2_docs\source\html\_img9.zoom72.png (File begins with an underscore)
+03|09/07/09 11:57:08|All index files will be written to: c:\users\eric\documents\projects\wc2_docs\source\html
+03|09/07/09 11:57:08|Writing index data for JavaScript search... (Please wait)
+03|09/07/09 11:57:08|Dictionary written out to zoom_index.js
+03|09/07/09 11:57:08|Pagedata written out to zoom_pagedata.tmp
+03|09/07/09 11:57:08|Pageinfo written out to zoom_pageinfo.tmp
+03|09/07/09 11:57:08|Skip words data written out to zoom_index.js
+03|09/07/09 11:57:08|Created script settings file (settings.js)
+10|09/07/09 11:57:08|Indexing completed at Mon Sep 07 11:57:08 2009
+12|09/07/09 11:57:08|INDEX SUMMARY
+12|09/07/09 11:57:08|Files indexed: 76
+12|09/07/09 11:57:08|Files skipped: 278
+12|09/07/09 11:57:08|Files filtered: 0
+12|09/07/09 11:57:08|Files downloaded: 0
+12|09/07/09 11:57:08|Unique words found: 1052
+12|09/07/09 11:57:08|Variant words found: 135
+12|09/07/09 11:57:08|Total words found: 9363
+12|09/07/09 11:57:08|Avg. unique words per page: 13.84
+12|09/07/09 11:57:08|Avg. words per page: 123
+12|09/07/09 11:57:08|Start index time: 11:57:06 (2009/09/07)
+12|09/07/09 11:57:08|Elapsed index time: 00:00:02
+12|09/07/09 11:57:08|Peak physical memory used: 44 MB
+12|09/07/09 11:57:08|Peak virtual memory used: 211 MB
+12|09/07/09 11:57:08|Errors: 0
+12|09/07/09 11:57:08|Total bytes scanned/downloaded: 455634
+12|09/07/09 11:57:08|File extensions: 
+12|09/07/09 11:57:08|    .htm indexed: 76
+02|09/07/09 11:57:08|Cleaning up memory used for index data... please wait.
+02|09/07/09 11:57:08|Finished cleaning up memory.
+08|09/07/09 11:57:08|Could not copy search script to: c:\users\eric\documents\projects\wc2_docs\source\html\search.js
+08|09/07/09 11:57:10|Could not open source template file: C:\Program Files\EC Software\HelpAndManual5\Compilers\scripts\Javascript\search_src.html
+08|09/07/09 11:57:10|Failed to create search template file: c:\users\eric\documents\projects\wc2_docs\source\html\search.html

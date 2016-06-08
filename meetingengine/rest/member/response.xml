@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<member>
+		<member_id>[MEMBER_ID]</member_id>
+		<login>[LOGIN]</login>
+		<password>[PASSWORD]</password>
+		<first_name>[FIRST_NAME]</first_name>
+		<last_name>[LAST_NAME]</last_name>
+		<email>[EMAIL]</email>
+		<permission>[PERMISSION]</permission>
+		<create_date>[CREATE_DATE]</create_date>
+		<audio_conference>
+			<number>[CONF_NUM]</number>
+      <number2>[CONF_NUM2]</number2>
+      <moderator_code>[CONF_MCODE]</moderator_code>
+			<attendee_code>[CONF_PCODE]</attendee_code>
+      <use_teleserver>[USE_TELESERVER]</use_teleserver>
+		</audio_conference>
+		<group_id>[GROUP_ID]</group_id>
+		<active>[ACTIVE]</active>
+		<license_code>[LICENSE_CODE]</license_code>
+    <member_pict>[PICT_URL]</member_pict>
+  </member>
+</response>

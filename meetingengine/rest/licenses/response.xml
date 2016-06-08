@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<licenses start='[OFFSET]'>
+<!--BEGIN_LICENSES-->
+		<license>
+			<license_code>[LICENSE_CODE]</license_code>
+			<description>[DESCRIPTION]</description>
+			<max_size>[MAX_SIZE]</max_size>
+			<max_length>[MAX_LENGTH]</max_length>
+			<disk_quota>[DISK_QUOTA]</disk_quota>
+			<has_video>[HAS_VIDEO]</has_video>
+			<is_trial>[IS_TRIAL]</is_trial>
+		</license>
+<!--END_LICENSES-->
+	</licenses>
+</response>

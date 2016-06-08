@@ -1,0 +1,1 @@
+<?php $version="2.2.26.0"; if (!isset($silent) || $silent!=true) echo $version; ?>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <webservers>
+    <!--BEGIN_WEBSERVERS-->
+    <webserver>
+      <webserver_id>[WEBSERVER_ID]</webserver_id>
+      <webserver_name>[WEBSERVER_NAME]</webserver_name>
+      <url>[URL]</url>
+      <access_code>[ACCESS_CODE]</access_code>
+    </webserver>
+    <!--END_WEBSERVERS-->
+  </webservers>
+</response>

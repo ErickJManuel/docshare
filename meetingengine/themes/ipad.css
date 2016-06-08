@@ -1,0 +1,19 @@
+body
+{
+    min-height: 1004px;
+}
+
+#load_bar
+{
+	top: 300px;
+}
+
+#loader
+{
+	top: 300px;
+}
+
+#shade 
+{
+	height: 1004px;
+}

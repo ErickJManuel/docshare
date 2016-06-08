@@ -1,0 +1,2 @@
+INSERT INTO `wc2_version` (`brand_id`, `number`, `rollback_number`, `source_url`, `ssl_source_url`, `date`, `type`) VALUES
+(0, '2.2.26.0', '2.2.20.0', 'http://localhost/wc2_22260/', '', '2009-12-01 00:00:00', 'final');

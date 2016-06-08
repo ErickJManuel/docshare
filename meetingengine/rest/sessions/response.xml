@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<sessions start='[START]' next='[NEXT]'>
+<!--BEGIN_SESSIONS-->
+		<session in_progress='[IN_PROGRESS]'>
+			<session_id>[SESSION_ID]</session_id>
+			<host_login>[HOST_LOGIN]</host_login>
+			<meeting_id>[MEETING_ID]</meeting_id>
+			<meeting_title>[MEETING_TITLE]</meeting_title>
+			<start_time>[START_TIME]</start_time>
+			<end_time>[END_TIME]</end_time>
+			<account_type>[ACCOUNT_TYPE]</account_type>
+			<client_data>[CLIENT_DATA]</client_data>
+		</session>
+<!--END_SESSIONS-->
+	</sessions>
+</response>

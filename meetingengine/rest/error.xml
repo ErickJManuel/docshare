@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<error>
+		<code>[ERROR_CODE]</code>
+		<message>[ERROR_MESSAGE]</message>
+	</error>
+</response>

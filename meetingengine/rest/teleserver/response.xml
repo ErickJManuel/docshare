@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <teleserver>
+    <teleserver_id>[TELESERVER_ID]</teleserver_id>
+    <teleserver_name>[TELESERVER_NAME]</teleserver_name>
+    <server_url>[SERVER_URL]</server_url>
+    <can_control>[CAN_CONTROL]</can_control>
+    <can_record>[CAN_RECORD]</can_record>
+    <can_dialout>[CAN_DIALOUT]</can_dialout>
+    <dial_tollfree_only>[DIAL_TOLLFREE_ONLY]</dial_tollfree_only>
+    <can_hangup_all>[CAN_HANGUP_ALL]</can_hangup_all>
+    <can_dial_host>[CAN_DIAL_HOST]</can_dial_host>
+  </teleserver>
+</response>

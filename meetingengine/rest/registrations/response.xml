@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <registrations start='[START]' next='[NEXT]'>
+    <!--BEGIN_REGISTRATIONS-->
+    <registration>
+      <date_time>[DATE_TIME]</date_time>
+      <full_name>[FULL_NAME]</full_name>
+      <email>[EMAIL]</email>
+      <fields>
+        <!--BEGIN_FIELDS-->
+        <field name='[FIELD_NAME]'>[FIELD_VALUE]</field>
+        <!--END_FIELDS-->
+      </fields>
+    </registration>
+    <!--END_REGISTRATIONS-->
+  </registrations>
+</response>

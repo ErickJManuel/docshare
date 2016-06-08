@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<attendees start='[START]' next='[NEXT]'>
+<!--BEGIN_ATTENDEES-->
+		<attendee>
+			<attendee_id>[ATTENDEE_ID]</attendee_id>
+			<session_id>[SESSION_ID]</session_id>
+			<start_time>[START_TIME]</start_time>
+			<end_time>[END_TIME]</end_time>
+			<break_time>[BREAK_TIME]</break_time>
+      <webcam_time>[WEBCAM_TIME]</webcam_time>
+      <member_id>[MEMBER_ID]</member_id>
+			<user_name>[USER_NAME]</user_name>
+		</attendee>
+<!--END_ATTENDEES-->
+	</attendees>
+</response>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+	<meetings start='[START]' next='[NEXT]'>
+<!--BEGIN_MEETINGS-->
+    <meeting>
+      <meeting_id>[ID]</meeting_id>
+      <session_id>[SESSION_ID]</session_id>
+      <title>[TITLE]</title>
+      <description>[DESCRIPTION]</description>
+      <status>[STATUS]</status>
+      <date_time>[DATE_TIME]</date_time>
+      <duration>[DURATION]</duration>
+      <scheduled>[SCHEDULED]</scheduled>
+      <login_type>[LOGIN_TYPE]</login_type>
+      <meeting_type>[MEETING_TYPE]</meeting_type>
+      <password>[PASSWORD]</password>
+      <public>[PUBLIC]</public>
+      <public_comment>[PUBLIC_COMMENT]</public_comment>
+      <use_tele>[USE_TELE]</use_tele>
+      <tele_num>[TELE_NUM]</tele_num>
+      <tele_mcode>[TELE_MCODE]</tele_mcode>
+      <tele_pcode>[TELE_PCODE]</tele_pcode>
+      <host_id>[HOST_ID]</host_id>
+      <client_data>[CLIENT_DATA]</client_data>
+    </meeting>
+<!--END_MEETINGS-->
+	</meetings>
+</response>

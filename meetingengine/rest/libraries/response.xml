@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <libraries>
+    <!--BEGIN_LIBRARIES-->
+    <library>
+      <library_name>[LIBRARY_NAME]</library_name>
+      <!--BEGIN_CONTENT-->
+      <content>
+        <content_id>[CONTENT_ID]</content_id>
+        <content_title>[CONTENT_TITLE]</content_title>
+        <content_type>[CONTENT_TYPE]</content_type>
+        <content_url>[CONTENT_URL]</content_url>
+        <toc_url>[TOC_URL]</toc_url>
+        <content_data>
+          [CONTENT_DATA]
+        </content_data>
+      </content>
+      <!--END_CONTENT-->
+    </library>
+    <!--END_LIBRARIES-->
+  </libraries>
+</response>

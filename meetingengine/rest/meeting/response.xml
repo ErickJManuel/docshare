@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <meeting>
+    <meeting_id>[ID]</meeting_id>
+    <session_id>[SESSION_ID]</session_id>
+    <title>[TITLE]</title>
+    <description>[DESCRIPTION]</description>
+    <status>[STATUS]</status>
+    <date_time>[DATE_TIME]</date_time>
+    <duration>[DURATION]</duration>
+    <scheduled>[SCHEDULED]</scheduled>
+    <login_type>[LOGIN_TYPE]</login_type>
+    <meeting_type>[MEETING_TYPE]</meeting_type>
+    <locked>[LOCKED]</locked>
+    <password>[PASSWORD]</password>
+    <public>[PUBLIC]</public>
+    <public_comment>[PUBLIC_COMMENT]</public_comment>
+    <use_tele>[USE_TELE]</use_tele>
+    <tele_num>[TELE_NUM]</tele_num>
+    <tele_mcode>[TELE_MCODE]</tele_mcode>
+    <tele_pcode>[TELE_PCODE]</tele_pcode>
+    <host_id>[HOST_ID]</host_id>
+    <host_name>[HOST_NAME]</host_name>
+    <host_pict>[HOST_PICT_URL]</host_pict>
+    <host_url>[HOST_URL]</host_url>
+    <attendee_url>[ATTENDEE_URL]</attendee_url>
+    <client_data>[CLIENT_DATA]</client_data>
+    <room_pict name="[ROOM_PICT_NAME]">[ROOM_PICT_URL]</room_pict>
+    <logo_pict>[LOGO_PICT_URL]</logo_pict>
+    <show_attendees>[SHOW_ATTENDEES]</show_attendees>
+    <public_chat>[PUBLIC_CHAT]</public_chat>
+    <exit_url>[EXIT_URL]</exit_url>
+  </meeting>
+</response>

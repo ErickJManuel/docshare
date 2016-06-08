@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response xmlns="http://schemas.persony.com/wc2/rest/1.0">
+  <live_event offset="[OFFSET]">
+    <event_id>[EVENT_ID]</event_id>
+    <sender_attendee_id>[SENDER_ATTENDEE_ID]</sender_attendee_id>
+    <target_attendee_id>[TARGET_ATTENDEE_ID]</target_attendee_id>
+    <sender_username>[SENDER_USERNAME]</sender_username>
+    <event_type>[EVENT_TYPE]</event_type>
+    <event_data>[EVENT_DATA]</event_data>
+  </live_event>
+</response>
